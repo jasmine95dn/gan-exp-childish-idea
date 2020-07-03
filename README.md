@@ -31,3 +31,6 @@ Please consult [these ganhacks](https://github.com/soumith/ganhacks) for more ge
 
 ## Why 2 versions?
 In the source code that I've received from my course, some hyperparameters have been changed. As I was so naive to run it without checking, I took the second run to see whether my naiveness influenced my experiments. Hmm...
+
+## Future work
+I'm considering to rerun the 2 again to see how would the history losses in both models and the accuracies might look like. Maybe I found out something more about this... 
